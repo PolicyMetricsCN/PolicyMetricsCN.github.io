@@ -38,9 +38,3 @@ latest_posts:
 混合协同的多模型架构在工具要素识别精度与覆盖广度上均显著优于现有方法，同时兼具“成本—性能”均衡、可动态迭代更新、可解释性以及可迁移性。
 
 本文为公共政策研究从“政策层面”推进至“工具—参数”层面提供可复制的方法基础，并为构建更具解释力的理论模型与实践导向的政策设计提供数据与工具支撑。
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
