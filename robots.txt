@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://18222129721w-collab.github.io/policylab.github.io/sitemap.xml
+Sitemap: https://18222129721w-collab.github.io/policylab.github.io//sitemap.xml
